@@ -18,7 +18,6 @@ def batas():
 # silahkan lanjutkan dengan fungsi dan calss anda dibawah
 # pastikan untuk menguji class dan fungsi yang sudah di buat disini
 
-
 class TempatWisata:
     def __init__(self, nama, lokasi, deskripsi, harga_tiket):
         self.nama = "pantai sulamadaha"
