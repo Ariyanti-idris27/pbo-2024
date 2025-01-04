@@ -1,6 +1,7 @@
 # For Test using or import modul
 # Main code untuk test modul projek bersama
 
+
 from modul_satu_pbo import TempatWisata, DaftarWisata
 
 # Inisialisasi daftar wisata
